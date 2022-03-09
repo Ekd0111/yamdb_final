@@ -34,4 +34,4 @@ jobs:
         # перейти в папку, содержащую manage.py — 
         #<корневая_папка_infra_actions>/<папка_проекта>/manage.py
         # запустить написанные разработчиком тесты
-        python api_yamdb/manage.py test
+        python manage.py test
