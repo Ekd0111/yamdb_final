@@ -58,6 +58,6 @@ jobs:
         # Пуш образа в Docker Hub 
         uses: docker/build-push-action@v2 
         with:
-          contex: ./api_yamdb/
+          context: api_yamdb/
           push: true
           tags: kgrook/yamdb_final:latest
