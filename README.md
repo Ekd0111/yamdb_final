@@ -1,4 +1,11 @@
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+Feature branch Unit tests status
+
+![PR_unit_tests](https://github.com/Ekd0111 /yamdb_final/workflows/PR_unit_tests/badge.svg)
+
+Main branch status
+
+![main](https://github.com/Ekd0111/yamdb_final/workflows/Hello_world/badge.svg)
+
 # Учебный проект YAMDB_FINAL
 ## Описание
 Этот проект может многое. Главная цель которого - закрепление практических навыков DevOps: CI и CD.
