@@ -1,4 +1,3 @@
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 # Учебный проект YAMDB_FINAL
 ## Описание
 Этот проект может многое. Главная цель которого - закрепление практических навыков DevOps: CI и CD.
