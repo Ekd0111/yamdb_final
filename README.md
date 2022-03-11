@@ -1,10 +1,6 @@
-Feature branch Unit tests status
+Status of workflow
 
-![PR_unit_tests](https://github.com/Ekd0111/yamdb_final/workflows/PR_unit_tests/badge.svg)
-
-Main branch status
-
-![main](https://github.com/Ekd0111/yamdb_final/workflows/Hello_world/badge.svg)
+![PR_unit_tests](https://github.com/Ekd0111/yamdb_final/workflows/yamdb_workflow/badge.svg)
 
 # Учебный проект YAMDB_FINAL
 ## Описание
