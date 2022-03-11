@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+Status of workflow
+
+![yamdb_workflow](https://github.com/Ekd0111/yamdb_final/yamdb_workflow.yml/badge.svg)
+
+>>>>>>> b3bb3710b3b47a0e26ac666bebef85d1424cc725
 # Учебный проект YAMDB_FINAL
 ## Описание
 Этот проект может многое. Главная цель которого - закрепление практических навыков DevOps: CI и CD.
