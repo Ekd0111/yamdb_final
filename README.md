@@ -1,7 +1,7 @@
 
 Status of workflow
 
-![Django-app workflow](https://github.com/Ekd0111/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![Django-app workflow](https://github.com/Ekd0111/yamdb_final/docs/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 
 # Учебный проект YAMDB_FINAL
@@ -22,7 +22,7 @@ Docker 20.10.12
 
 ### Заполните файл .env по шаблону:
 
-                                                                                                         ```DB_ENGINE=django.db.backends.postgresql
+```DB_ENGINE=django.db.backends.postgresql
 DB_NAME=
 POSTGRES_USER=
 POSTGRES_PASSWORD=
