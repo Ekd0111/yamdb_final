@@ -1,7 +1,7 @@
 
 Status of workflow
 
-![Django-app workflow](https://github.com/Ekd0111/yamdb_final/docs/actions/workflows/yamdb_workflow.yml/badge.svg)
+![example workflow](https://github.com/Ekd0111/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
 
 
 # Учебный проект YAMDB_FINAL
