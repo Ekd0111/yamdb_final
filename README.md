@@ -1,6 +1,6 @@
 Status of workflow
 
-![PR_unit_tests](https://github.com/Ekd0111/yamdb_final/workflows/yamdb_workflow/badge.svg)
+![yamdb_workflow](https://github.com/Ekd0111/yamdb_final/workflows/yamdb_workflow/badge.svg)
 
 # Учебный проект YAMDB_FINAL
 ## Описание
