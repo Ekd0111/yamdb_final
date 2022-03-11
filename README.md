@@ -1,6 +1,6 @@
 Feature branch Unit tests status
 
-![PR_unit_tests](https://github.com/Ekd0111 /yamdb_final/workflows/PR_unit_tests/badge.svg)
+![PR_unit_tests](https://github.com/Ekd0111/yamdb_final/workflows/PR_unit_tests/badge.svg)
 
 Main branch status
 
