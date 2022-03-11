@@ -1,6 +1,11 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9e585eec7b59ab488261d3f22e6359d6c20b0512
 Status of workflow
 
-![yamdb_workflow](https://github.com/Ekd0111/yamdb_final/yamdb_workflow.yml/badge.svg)
+![example workflow](https://github.com/Ekd0111/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
+
 
 # Учебный проект YAMDB_FINAL
 ## Описание
@@ -20,8 +25,12 @@ Docker 20.10.12
 
 ### Заполните файл .env по шаблону:
 
+<<<<<<< HEAD
 ```
 DB_ENGINE=django.db.backends.postgresql  
+=======
+```DB_ENGINE=django.db.backends.postgresql
+>>>>>>> 9e585eec7b59ab488261d3f22e6359d6c20b0512
 DB_NAME=
 POSTGRES_USER=
 POSTGRES_PASSWORD=
